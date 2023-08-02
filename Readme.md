@@ -1,4 +1,4 @@
-<h1 align="center">![360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66](https://github.com/DevBarham/devbarham.github.io/assets/70139300/3485d684-bc36-4de7-b411-6daa6b9b647d)</h1>
+![360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66](https://github.com/DevBarham/devbarham.github.io/assets/70139300/3485d684-bc36-4de7-b411-6daa6b9b647d)
 
 <h1 align="center">Hi 👋, I'm Saheed Ibrahim</h1>
 <h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
