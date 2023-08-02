@@ -1,7 +1,10 @@
 ![360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66](https://github.com/DevBarham/devbarham.github.io/assets/70139300/3485d684-bc36-4de7-b411-6daa6b9b647d)
 
 <h1 align="center">Hi 👋, I'm Saheed Ibrahim</h1>
-<h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
+<h3 align="center">A passionate DevOps Engineer from Nigeria. As a DevOps engineer, my primary responsibility is to bridge the gap between software development and IT
+operations, aiming to create a seamless and efficient software delivery process. My role involves
+implementing DevOps principles, practices, and tools to enhance collaboration, automate workflows, and
+improve the overall development lifecycle.</h3>
 <h4 align="center" style="font-family: monospace">alias: DevBarham</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBarham&label=Profile%20views&color=0e75b6&style=flat" alt="DevBarham" /> </p>
