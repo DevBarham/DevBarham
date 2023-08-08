@@ -17,7 +17,7 @@ improve the overall development lifecycle.</h3>
 
 - 🌱 I’m currently or looking forward to learning **K8s**
 
-- 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/devbarham)
+- 👨‍💻 All of my projects are available at [github.com/devbarham](github.com/DevBarham)
 
 - 📝 I write articles on [https://DevBarham.hashnode.dev/](https://DevBarham.hashnode.dev/)
 
