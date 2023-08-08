@@ -1,4 +1,5 @@
-![360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66](https://github.com/DevBarham/devbarham.github.io/assets/70139300/3485d684-bc36-4de7-b411-6daa6b9b647d)
+![Navy Geometric Technology LinkedIn Banner](https://github.com/DevBarham/DevBarham/assets/70139300/dca15ac4-14b6-4178-a6ad-e2d1dd70df36)
+
 
 <h1 align="center">Hi 👋, I'm Saheed Ibrahim</h1>
 <h3 align="center">A passionate DevOps Engineer from Nigeria. As a DevOps engineer, my primary responsibility is to bridge the gap between software development and IT
